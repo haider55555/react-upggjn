@@ -1,0 +1,19 @@
+
+.container{
+  background-color:aqua;
+  opacity:20 px;
+  box-flex: 600px;
+  border-radius: 5px;
+  margin-left: 05rem;
+
+
+  
+  
+}
+p {
+  font-family: Lato;
+  color: red;
+}
+h1{color: palevioletred;
+
+}
